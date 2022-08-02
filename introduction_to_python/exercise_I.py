@@ -1,2 +1,2 @@
-def a(x):
-    return x
+def sum_elements(a, b):
+    return a + b
