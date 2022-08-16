@@ -1,5 +1,2 @@
-a = 100
-print(a)
-
-
-
+class vec:
+    pass
