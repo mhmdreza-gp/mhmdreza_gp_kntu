@@ -1,6 +1,4 @@
-a = 100
-print(a)
+print("hola")
 
-print(type(a))
-print("hola bscode")
+print("still trying")
 
